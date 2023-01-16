@@ -1,5 +1,6 @@
-# QA_JUNIOR
-Artifacts &amp; Resume
+![Header](https://github.com/MaksimTupitsyn/QA/blob/main/Pictures/GIT_LOGO!.jpg)
+## QA_JUNIOR
+## Artifacts &amp; Resume
 
 
 ### SKILLS ###
