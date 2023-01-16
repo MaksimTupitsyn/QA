@@ -2,7 +2,7 @@
 Artifacts &amp; Resume
 
 
-###SKILLS###
+### SKILLS ###
 
 
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -12,7 +12,7 @@ Artifacts &amp; Resume
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
 ![Header](https://img.shields.io/badge/SOAP_UI-090909?style=for-the-badge&logo=SOAP_UI&logoColor=8cc4d7)
 
-###Testing_Documentation###
+### Testing_Documentation ###
 
 - [IT_Academy_Project](https://github.com/MaksimTupitsyn/RestFul_Booker)
 - [Test_Suites and Test_Cases](https://github.com/MaksimTupitsyn/Test_Suites-Test_Cases)
