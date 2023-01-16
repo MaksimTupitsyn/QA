@@ -14,6 +14,5 @@ Artifacts &amp; Resume
 
 ###Testing_Documentation###
 
-
---->[IT_Academy_Project](https://github.com/MaksimTupitsyn/RestFul_Booker)
---->[Test_Suites and Test_Cases](https://github.com/MaksimTupitsyn/Test_Suites-Test_Cases)
+- [IT_Academy_Project](https://github.com/MaksimTupitsyn/RestFul_Booker)
+- [Test_Suites and Test_Cases](https://github.com/MaksimTupitsyn/Test_Suites-Test_Cases)
