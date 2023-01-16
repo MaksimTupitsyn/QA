@@ -15,4 +15,4 @@ Artifacts &amp; Resume
 ###Testing_Documentation###
 
 
-[IT_Academy](https://github.com/MaksimTupitsyn/RestFul_Booker)
+[IT_Academy_Project](https://github.com/MaksimTupitsyn/RestFul_Booker)
