@@ -18,7 +18,7 @@
 - [Maksim Tupitsyn](https://github.com/MaksimTupitsyn/QA/blob/main/Pictures/Tupitsyn_Maksim's_Resume%20.pdf)
 
 ### Certificates ###
--[It-Academy Educational Center](https://github.com/MaksimTupitsyn/QA/blob/main/Pictures/%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%20%D0%A2%D1%83%D0%BF%D0%B8%D1%86%D1%8B%D0%BD.pdf)
+- [It-Academy Educational Center](https://github.com/MaksimTupitsyn/QA/blob/main/Pictures/MTupitsynCertificate.pdf)
 
 ### Testing_Documentation ###
 
