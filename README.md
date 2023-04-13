@@ -14,7 +14,7 @@
 ![Header](https://img.shields.io/badge/SOAP_UI-090909?style=for-the-badge&logo=SOAP_UI&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/KATALON-090909?style=for-the-badge&logo=katalon&logoColor=136be1)
 
-### VC ###
+### CV ###
 - [Maksim Tupitsyn](https://github.com/MaksimTupitsyn/QA/blob/main/Pictures/Tupitsyn_Maksim's_Resume%20.pdf)
 
 ### Certificates ###
