@@ -23,5 +23,5 @@
 ### Testing_Documentation ###
 
 - [IT_Academy_Project](https://github.com/MaksimTupitsyn/RestFul_Booker)
-- [Test_Suites and Test_Cases](https://github.com/MaksimTupitsyn/Test_Suites-Test_Cases)
+- [Test_Suites/Test_Cases/Bug_Report's_collection](https://github.com/MaksimTupitsyn/Test_Suites-Test_Cases)
 - [SQL_Queries_Collection](https://github.com/MaksimTupitsyn/SQL_Queries_Collection)
