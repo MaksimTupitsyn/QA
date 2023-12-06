@@ -15,7 +15,7 @@
 ![Header](https://img.shields.io/badge/KATALON-090909?style=for-the-badge&logo=katalon&logoColor=136be1)
 
 ### CV ###
-- [Maksim Tupitsyn](https://github.com/MaksimTupitsyn/QA/blob/main/Pictures/Tupitsyn_Maksim's_Resume%20.pdf)
+- [Maksim Tupitsyn](https://github.com/MaksimTupitsyn/QA/blob/main/Pictures/CV_Maksim_Tupitsyn_QA_Engineer.pdf)
 
 ### Certificates ###
 - [It-Academy Educational Center](https://github.com/MaksimTupitsyn/QA/blob/main/Pictures/MTupitsynCertificate.pdf)
